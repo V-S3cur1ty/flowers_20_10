@@ -70,12 +70,12 @@ const ROSE_PALETTES = {
  */
 const WHISPER_NOTES = [
   'Chúc cục vàng của anh một ngày 20/10 ngập tràn yêu thương và những bất ngờ nho nhỏ.',
-  'Chúc em sớm thành công trên con đường của mình.',
+  'Cố gắng có đủ điều kiện để được chính thức rước bơ nì veee',
   'Mong rằng tụi mình sẽ sớm được đi Maldives với nhaooo.',
-  'Một bông hoa dành cho nụ cười của em. Hôm nay nhớ vui thật nhiều nhéee!',
+  'Bông hoa này dành cho nụ cười xinh xắn của bơ nì, chúc bơ nì sẽ cười nhiều hơn nhéee!',
   'Chúc những dự định của em sớm đơm hoa, từng chút một, theo nhịp của riêng mình.',
-  'Mong mỗi ngày của em đều có một lý do thật nhỏ để mỉm cười.',
-  'Chúc em luôn khỏe mạnh, bình an trong tâm hồn và có thật nhiều thời gian cho chính mình.'
+  'Mong mỗi ngày đi làm của em bé sẽ bớt áp lực hơn nhiều chúttt',
+  'Chúc em luôn có that nhiều năng lượng và chúng mình sẽ có nhiều chuyến đi ý nghĩa với nhau hơn nhaa'
 ];
 
 /**
